@@ -47,3 +47,4 @@ make mongo // load js init script to mongo docker container
 make cert // generate local SLL certificates
 make swagger // generate swagger documentation
 ```
+Reference: https://dev.to/aleksk1ng/go-kafka-grpc-and-mongodb-microservice-with-metrics-and-tracing-448d 
